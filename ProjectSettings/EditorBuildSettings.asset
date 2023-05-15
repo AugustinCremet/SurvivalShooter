@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Complete-Game/Scenes/Lobby.unity
+    guid: ec59747362b3aed45b9fc925c340c604
+  - enabled: 1
+    path: Assets/_Complete-Game/Scenes/Game.unity
+    guid: 874e24e631d7345b0a29cc297bedb405
+  - enabled: 1
+    path: Assets/_Complete-Game/Scenes/Transition.unity
+    guid: 3df8d5d7b1d1b154a8f8c69831ace9c5
+  m_configObjects: {}
